@@ -1,0 +1,6 @@
+{
+  "environment": "dev",
+  "domain":      "bobwares-poc",
+  "bucket_name": "media",
+  "region":      "us-east-1"
+}
