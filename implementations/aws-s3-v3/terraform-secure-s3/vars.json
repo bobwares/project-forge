@@ -1,0 +1,6 @@
+{
+  "environment": "dev",
+  "domain": "media",
+  "bucket_name": "assets-v3",
+  "region": "us-east-1"
+}
